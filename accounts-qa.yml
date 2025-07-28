@@ -2,7 +2,7 @@ build:
  version: "2.0"
 
 accounts:
-  message: "Welcome to Bank accounts related QA  webhook1 APIs "
+  message: "Welcome to Bank accounts related QA  webhook APIs "
   contactDetails:
     name: "Smitha Roy - QA Lead"
     email: "smitha@gmail.com"
